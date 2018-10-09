@@ -11,4 +11,4 @@ https://github.com/ShellyYoon/PUI2018_yy2908/blob/master/HW4_yy2908/Assignment2_
 ## Assignment 3: Finish z-test lab and turn it in as a notebook .
 
 https://github.com/ShellyYoon/PUI2018_yy2908/blob/master/HW4_yy2908/Assignment3_yy2908.ipynb
-#In this issue,we could reject the null hypothesis due to z-score is 2.556.Thus,the average travel time of new bus route is faster than the old route travel time.
+#Conclusion:In this issue,we could reject the null hypothesis due to z-score is 2.556.Thus,the average travel time of new bus route is faster than the old route travel time.
