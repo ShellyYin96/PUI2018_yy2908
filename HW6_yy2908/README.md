@@ -4,8 +4,7 @@
 
 Give some recommandation for Hanxing Li(netID:hl3282)
 
-Link:https://github.com/fedhere/PUI2018_fb55/blob/master/HW1_fb55/HW1_2_instructions.md)
-
+Link:https://github.com/ShellyYoon/PUI2018_hl3282/blob/master/HW4_hl3282/CitibikeReview_yy2908.md
 
 ## Assignment 2: Literature choices of statistical tests
 
