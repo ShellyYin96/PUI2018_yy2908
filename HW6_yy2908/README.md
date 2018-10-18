@@ -9,7 +9,7 @@ Link:https://github.com/fedhere/PUI2018_fb55/blob/master/HW1_fb55/HW1_2_instruct
 
 ## Assignment 2: Literature choices of statistical tests
 
-Teamwork with Xiao Jing(netID:xj655), and I am responsiable for logistic regression.
+Teamwork with Xiao Jing(netID:xj655), and I am responsible for logistic regression.
 
 Link: https://github.com/ShellyYoon/PUI2018_yy2908/blob/master/HW6_yy2908/HW6_Assignmentment2_yy2908.md
 
