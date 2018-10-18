@@ -9,8 +9,13 @@ ANCOVA|Whether take the  one of component in hormone called Rosiglitzone|Categor
 Logistic Regression|30 , number of clusters|Categorical|500,field observations(scenarios)| Continuous|the strength and source of correlation|categorical|determine how clustering rules in GEE affect their ability to decrease the statistical bias in variance estimation due to correlation in longitudinal data|The robust estimate of variance becomes unbiased when the number of independent clusters is higher than 20.|Alpha = 0.05|[Robust Inference from Conditional Logistic Regression Applied to Movement and Habitat Selection Analysis](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0169779)|
 
 ANCOVA
+
 ![main plot](ancova_analysis.png)
+
 Path Analysis
+
 ![main plot2](path_analysis.png)
+
 Logistic Regression
+
 ![main plot3](journal.pone.0169779.g002.PNG)
