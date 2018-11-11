@@ -8,7 +8,3 @@ https://github.com/ShellyYoon/PUI2018_yy2908/blob/master/HW3_yy2908/HW3_yy2908.i
 
 ## Assignment 3
 https://github.com/ShellyYoon/PUI2018_yy2908/blob/master/HW3_yy2908/get_bus_info_yy2908.ipynb
-
-## Assignment 4
-https://github.com/ShellyYoon/PUI2018_yy2908/blob/master/HW3_yy2908/show_bus_locations_yy2908.ipynb
-
