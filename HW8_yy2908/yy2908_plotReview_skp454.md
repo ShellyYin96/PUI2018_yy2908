@@ -35,7 +35,7 @@ Alongwith these choropleths, make 2 histograms showing the distribution of numbe
 
 2. For objective 2, use shapefile of zipcode to make a choropleth with a divergent color scheme.
 This choropleth should represent the difference in noise complaints between years 2016 and 2017 in different zipcodes.
-Alongwith the choropleth, also provide a histogram to show this difference.
+Alongwith the choropleth, also provide a histogram to show the distribution of this difference.
 
 3. For objective 3, the current plot4 is correct.
 Please add labels to x and y axis so, that it is clear which axis represent which year.
