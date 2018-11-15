@@ -5,7 +5,10 @@ I decided to take a look at the CitiBike data and the median age of NYC populati
 
 ![alt text](map.png)
 
-Review:
+
+
+## Review
+
 
 That is a nice plot. It shows the differences between age range based on different borough clearly. Maybe if you use the same color scheme, it is better to view by the different color shades without comparing with label.
 
