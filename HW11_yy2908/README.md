@@ -23,5 +23,7 @@ Caption: it shows the change of log of data in these two year. And it is stable 
 <img src="https://github.com/ShellyYoon/PUI2018_yy2908/blob/master/HW11_yy2908/plot3.png">
 
 Suggestion:
+
 1.Could combine with the map(I am trying to merge with geodataframe)
+
 2. Add title and caption
