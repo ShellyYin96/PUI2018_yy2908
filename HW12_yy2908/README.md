@@ -2,7 +2,8 @@
 
 # Assignment
 
-With the help from Estella(pl1840)
+With lots of help from Estella(pl1840)
+Thank you Estella!
 
 **Assignment 1.** 
 
